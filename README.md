@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EmmanuelBANGWEN
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me bikoyemmanuel531@gmail.com
 
 <!---
 EmmanuelBANGWEN/EmmanuelBANGWEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
